@@ -1,6 +1,6 @@
 <resources>
     <string name="app_name">IndoTestVideo</string>
-    <string name="agora_app_id">930c54ed48f24febae65ecd1bc8530ab</string>
+    <string name="agora_app_id"><Your App ID></string>
 
 
 </resources>
