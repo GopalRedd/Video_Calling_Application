@@ -18,4 +18,4 @@ SDK Support  :
 This time i used Agora.io as a sdk it is free for features so i used it.
 1)https://sso.agora.io/en/login this is login website link which for agaora dashboard
 2) Get Application ID from Dashboard and insert in strings.xml finish 
-3)platform android for video calling their we so many cool features
+3)platform android for video calling their we have so many cool features
